@@ -1,5 +1,5 @@
 ---
-name: 'MC'
+name: 'manager'
 about: 진행자 준비사항
 title: ''
 labels: ''
