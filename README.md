@@ -31,6 +31,7 @@
 3. 생성한 디렉토리에 `{이니셜}.{확장자}`로 생성
    `ex) 01장-프로그래밍/lsh.md`
 4. main branch 로 pull request
+   a. title => `{nn}장 {이름}`
 5. maintainer 인 이석호가 pull request merge
    a. pull request 를 통해 문서를 관리하는 이유는 다른 사람의 문서를 건들지 못하게하기 위함입니다.
 
