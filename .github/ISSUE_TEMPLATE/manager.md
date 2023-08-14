@@ -1,7 +1,7 @@
 ---
 name: 'manager'
 about: 진행자 준비사항
-title: ''
+title: 'n회차 2023-mm-dd'
 labels: ''
 assignees: ''
 ---
