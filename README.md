@@ -3,7 +3,7 @@
 [modern javascript deep dive](https://www.yes24.com/Product/Goods/92742567) 책을 통해 JS 기본 개념을 정확하게 이해하고 코드 동작원리를 이해한다.
 
 <p align="center">
-<img width=800 src="https://github.com/rrgks6221/js-deep-dive-study/assets/46591459/9df31995-e063-4f07-b640-bdae6494d827">
+<img width=500 src="https://github.com/rrgks6221/js-deep-dive-study/assets/46591459/9df31995-e063-4f07-b640-bdae6494d827">
 </p>
 
 ## 스터디
