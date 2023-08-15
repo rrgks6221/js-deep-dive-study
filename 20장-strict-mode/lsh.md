@@ -1,0 +1,1 @@
+# 20장 strict-mode
