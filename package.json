@@ -1,0 +1,17 @@
+{
+  "name": "js-deep-dive-study",
+  "version": "1.0.0",
+  "description": "[modern javascript deep dive](https://www.yes24.com/Product/Goods/92742567) 책을 통해 JS 기본 개념을 정확하게 이해하고 코드 동작원리를 이해한다.",
+  "main": "index.js",
+  "scripts": {
+    "init": "node scripts/init-all-directory",
+    "init:d": "node scripts/init-directory",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^11.0.0"
+  }
+}
