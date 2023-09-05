@@ -30,7 +30,7 @@
 5 * '10'      // 50
 
 // 피연산자 또는 표현식이 불리언 타입이어야 하는 문맥
-0!            // true
+!0            // true
 if (1) {...}  //
 ```
 
@@ -267,12 +267,12 @@ Boolean([]); // true
 
 **논리합, 논리곱 연산자 단축 평가 표현식**
 
-| 단축 평가 표현식  | 평가 결과 |
-| ----------------- | --------- | -------- | -------- |
-| true              |           | anything | true     |
-| false             |           | anything | anything |
-| true && anything  | anything  |
-| false && anything | false     |
+| 단축 평가 표현식    | 평가 결과 |
+| ------------------- | --------- |
+| true \|\| anything  | true      |
+| false \|\| anything | anything  |
+| true && anything    | anything  |
+| false && anything   | false     |
 
 논리합, 논리곱 연산자는 논리 연산의 결과를 결정하는 피연산자를 타입 변환 없이 그대로 반환하는데 이를 단축 평가라고 함. 단축 평가는 표현식을 평가하는 도중에 평가 결과가 확정된 경우 나머지 평가 과정을 생략하는 것.
 
